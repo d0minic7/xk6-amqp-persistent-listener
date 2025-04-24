@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-amqp
+module github.com/d0minic7/xk6-amqp-persistent-listener
 
 go 1.19
 
